@@ -15,6 +15,7 @@ author: Michaela Lowe
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv/Michaela_Lowe_May_2020_CV.pdf"
   Publications: "publications 2020"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
