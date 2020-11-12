@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Michaela Lowe
-subtitle: M.S. student
+subtitle: M.S. student, 2020
 University of Washington, School of Aquatic and Fishery Sciences
 ---
 
