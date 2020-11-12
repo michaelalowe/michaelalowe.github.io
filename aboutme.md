@@ -11,7 +11,7 @@ My name is Inigo Montoya. I have the following qualities:
 - I'm extremely loyal to my family
 
 
-![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/Michaela_Alaska_photos_5.jpg)
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/headshot.jpg)
 
 What else do you need?
 
