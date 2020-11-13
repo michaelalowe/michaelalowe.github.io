@@ -5,10 +5,12 @@ subtitle: "Here are some of my favorite photos from the field "
 ---
 
 <style>
- .caption {
-   color: gray;
-   padding-top: 25px;
- }
+.caption {
+    color: gray;
+    margin-top: 4px;
+    font-style: italic;
+    margin-left: 5px;
+}
 </style>
 
 
