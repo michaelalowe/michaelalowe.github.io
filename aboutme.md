@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Michaela Lowe"
-subtitle: "M.S. student\n
-University of Washington, School of Aquatic and Fishery Sciences"
+subtitle: "M.S. student at the University of Washington, School of Aquatic and Fishery Sciences"
 ---
 
 My name is Inigo Montoya. I have the following qualities:
