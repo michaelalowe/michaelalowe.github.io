@@ -26,7 +26,7 @@ subtitle: "Here are some of my favorite photos from the field "
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_8264.JPG)
 <i class='caption'>Fryingpan Creek, Mount Rainier, WA</i>
 
-![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_5425.JPG)
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_4525.JPG)
 <i class='caption'>White River, WA</i>
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_0394.JPG)
@@ -60,7 +60,4 @@ subtitle: "Here are some of my favorite photos from the field "
 <i class='caption'>Lake Nerka, AK</i>
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_3938.JPG)
-<i class='caption'>White River, WA</i>
-
-![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_4525.JPG)
 <i class='caption'>White River, WA</i>
