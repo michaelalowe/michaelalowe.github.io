@@ -61,3 +61,6 @@ subtitle: "Here are some of my favorite photos from the field "
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_3938.JPG)
 <i class='caption'>White River, WA</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_4525.JPG)
+<i class='caption'>White River, WA</i>
