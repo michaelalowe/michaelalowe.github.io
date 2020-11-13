@@ -17,10 +17,10 @@ navbar-links:
   CV: "cv/Michaela_Lowe_May_2020_CV.pdf"
   Publications: "publications2020"
   Photos: "photos"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 # --- Logo --- #
 
