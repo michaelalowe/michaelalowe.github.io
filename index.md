@@ -3,15 +3,18 @@ layout: page
 title: "Michaela Lowe"
 subtitle: "M.S. student at the University of Washington, School of Aquatic and Fishery Sciences"
 ---
-
-Welcome!
-
-- I am happy to have you here.
-- I love science.
-
+<style>
+.caption {
+    color: gray;
+    margin-top: 4px;
+    font-style: italic;
+    margin-left: 5px;
+}
+</style>
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/headshot.jpg)
-Church Mountain, Lake Nerka, AK
+<i class='caption'>Lake Nerka, AK</i>
+
 
 ### Welcome!
 
