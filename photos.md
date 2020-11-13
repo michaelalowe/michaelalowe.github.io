@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Michaela Lowe"
+title: "Photos"
 subtitle: "Here are some of my favorite photos from the field "
 ---
 
