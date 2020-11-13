@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Publications"
-subtitle: "I don't have any...yet!"
+subtitle: "Coming soon!"
 ---
