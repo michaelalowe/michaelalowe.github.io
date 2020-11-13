@@ -7,12 +7,11 @@ subtitle: "M.S. student at the University of Washington, School of Aquatic and F
 Welcome!
 
 - I am happy to have you here.
-- I love science. 
+- I love science.
 
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/headshot.jpg)
-
-What else do you need?
+Church Mountain, Lake Nerka, AK
 
 ### My story
 
