@@ -14,7 +14,6 @@ author: Michaela Lowe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   CV: "cv/Michaela_Lowe_May_2020_CV.pdf"
   Publications: "publications 2020"
   Resources:
@@ -41,10 +40,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "mrlowe@uw.edu"
+  github: michaelalowe
+  twitter: michruthlowe
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
