@@ -4,10 +4,10 @@ title: "Michaela Lowe"
 subtitle: "M.S. student at the University of Washington, School of Aquatic and Fishery Sciences"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am happy to have you here.
+- I love science. 
 
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/headshot.jpg)
