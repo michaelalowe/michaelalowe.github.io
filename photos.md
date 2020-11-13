@@ -17,5 +17,5 @@ subtitle: "Here are some of my favorite photos from the field "
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_2802.JPG)
 <i class='caption'>West Fork White River, Mount Rainier, WA</i>
 
-![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_8729.JPG)
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_8279.JPG)
 <i class='caption'>Bull trout at the Buckley Diversion Dam, Buckley, WA</i>
