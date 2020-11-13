@@ -47,11 +47,17 @@ subtitle: "Here are some of my favorite photos from the field "
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_6257.JPG)
 <i class='caption'>Lake Nerka, AK</i>
 
-![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_5657.JPG)
-<i class='caption'>Lake Nerka, AK</i>
-
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_6258.JPG)
 <i class='caption'>Lake Nerka, AK</i>
 
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_5657.JPG)
+<i class='caption'>Lake Nerka, AK</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_6922.JPG)
+<i class='caption'>Little Togiak Lake, AK</i>
+
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/Michaela_Alaska_photos_11.jpg)
 <i class='caption'>Lake Nerka, AK</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_3938.JPG)
+<i class='caption'>White River, WA</i>
