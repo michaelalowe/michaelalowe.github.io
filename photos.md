@@ -19,3 +19,12 @@ subtitle: "Here are some of my favorite photos from the field "
 
 ![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_8279.JPG)
 <i class='caption'>Bull trout at the Buckley Diversion Dam, Buckley, WA</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_6229.jpg)
+<i class='caption'>Staghorn sculpin, Commencement Bay, WA</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/IMG_8264.JPG)
+<i class='caption'>Fryingpan Creek, Mount Rainier, WA</i>
+
+![](https://raw.githubusercontent.com/michaelalowe/michaelalowe.github.io/master/img/Michaela_Alaska_photos_11.jpg)
+<i class='caption'>Lake Nerka, AK</i>
